@@ -2,7 +2,6 @@
 
 ## Table of Contents
 
-- [Title](#title)
 - [Description](#description)
 - [Hardware Requirements](#hardware-requirements)
 - [Software Requirements](#software-requirements)
@@ -16,20 +15,20 @@ The Aqua App is an application that helps water districts manage billing and ser
 
 ## Hardware Requirements
 
-Laptop
-Computer
-Smartphone
+- Laptop
+- Computer
+- Smartphone
 
-Minimum specifications:
-Intel Pentium Processor
-Android Lollipop Operating System
+- Minimum specifications:
+- Intel Pentium Processor
+- Android Lollipop Operating System
 
 ## Software Requirements
 
-Flutter SDK
-Visual Studio Code (VS Code)
-Git
-Flutter Plugins
+- Flutter SDK
+- Visual Studio Code (VS Code)
+- Git
+- Flutter Plugins
 
 ## Application Guide
 
@@ -47,5 +46,5 @@ Flutter Plugins
 
 ## Project Contributors
 
-Ellejoy Dimaculangan, Renia Ann Marie Cabingan Angelo P. Santos who's taking BSIT Major in Business Analytics, Batangas State University are the project contributors.
+Ellejoy Dimaculangan, Renia Ann Marie Cabingan, Angelo P. Santos who's taking BSIT Major in Business Analytics in Batangas State University Mabini are the project contributors.
 
