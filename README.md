@@ -1,12 +1,15 @@
 # Aqua App
 
 ## Table of Contents
-[Title](#title)
-[Description](#description
-[Hardware Requirements](#hardware-requirements)
-[Software Requirements](#software-requirements)
-[Application Guide](#application-guide)
-[Project Contributors](#project-contributors)
+## Table of Contents
+
+- [Title](#title)
+- [Description](#description)
+- [Hardware Requirements](#hardware-requirements)
+- [Software Requirements](#software-requirements)
+- [Application Guide](#application-guide)
+- [Project Contributors](#project-contributors)
+
 
 ## Description
 
