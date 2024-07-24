@@ -1,7 +1,6 @@
 # Aqua App
 
 ## Table of Contents
-## Table of Contents
 
 - [Title](#title)
 - [Description](#description)
